@@ -25,7 +25,7 @@ def findurls( html,count):
         
 urllist=[]
 start=timeit.default_timer()
-local_filename, headers = urllib.request.urlretrieve('http://www.iitb.ac.in/')
+local_filename, headers = urllib.request.urlretrieve('https://python.org/')
 html = open(local_filename,encoding="utf8")
 count=0
 findurls (html,count);
