@@ -26,3 +26,5 @@ https://www.state.gov/misc/60289.htm
 http://web.mit.edu/
 
 http://www.columbia.edu/
+
+*A Basic Crawler to understand how crawler/bot works.*
